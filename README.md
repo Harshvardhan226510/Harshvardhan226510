@@ -41,11 +41,11 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 ---
 
-## ⚡ Core Philosophy & Space Tech Outlook
+##  Core Philosophy & Space Tech Outlook
 
-* 🌌 **The Multiplanetary Frontier:** Passionate about the realization of deep space exploration and sustainable multiplanetary life. I believe the path to becoming an interplanetary species relies on a unified, global organization working toward shared milestones rather than fragmented national competition.
-* 🛰️ **Autonomous Space Revolution:** Committed to building the intelligent computing infrastructure—such as autonomous cognitive agents, physics-informed digital twins, and highly resilient edge architectures—required to govern next-generation spacecraft and off-world telemetry systems.
-* 📈 **Continuous Compounding:** Cultivating a rigorous engineering mindset through a daily habit of analyzing advanced mathematics (Calculus, Linear Algebra), programming optimized pipelines, and expanding baseline knowledge via non-fiction literature.
+*  **The Multiplanetary Frontier:** Passionate about the realization of deep space exploration and sustainable multiplanetary life. I believe the path to becoming an interplanetary species relies on a unified, global organization working toward shared milestones rather than fragmented national competition.
+*  **Autonomous Space Revolution:** Committed to building the intelligent computing infrastructure—such as autonomous cognitive agents, physics-informed digital twins, and highly resilient edge architectures—required to govern next-generation spacecraft and off-world telemetry systems.
+*  **Continuous Compounding:** Cultivating a rigorous engineering mindset through a daily habit of analyzing advanced mathematics (Calculus, Linear Algebra), programming optimized pipelines, and expanding baseline knowledge via non-fiction literature.
 
 ---
 
