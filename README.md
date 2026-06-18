@@ -22,7 +22,7 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 | Project | Core Stack | Operational Capabilities & Architecture | Source Code | Live Deployment |
 | :--- | :--- | :--- | :--- | :--- |
-| **PROMPT-AI** | `React.js` `Node.js` `GenAI` | Full-stack enterprise platform engineered for rapid prompt matrix design, iterative evaluation, and live endpoint application deployment. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
+| **PROMPT-AI** | `Python` `Generative AI` | An advanced prompt engineering workspace designed for rapid prompt pattern exploration, configuration testing, and structured LLM evaluation. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/PROMPT-AI) |
 | **Real-Time News Agent** | `LangGraph` `ChromaDB` `Python` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/NewsSummarizerChatbot) |
 
 ### 🧠 Deep Learning & Advanced Telemetry
@@ -41,10 +41,10 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 ---
 
-## ⚡ Core Philosophy & Continuous Compounding
+## ⚡ Core Philosophy & Architecture Focus
 
-* 🌌 **Unified Frontier:** Strongly advocate for a global, unified international approach to space exploration driven by collective cognitive intelligence over national competition.
-* 📈 **Mathematical Rigor:** Dedicating daily focus to mastering foundational technical mathematics, optimizing algorithmic execution, and reviewing psychological/financial literature.
+* 🌌 **Global Scientific Collaboration:** Strongly advocate for a unified, global approach to space exploration and complex systems design based on shared cognitive intelligence rather than national competition.
+* 📈 **Continuous Engineering Compounding:** Focus on building a deeply grounded engineering mindset through a committed routine of reviewing advanced mathematics (Calculus, Linear Algebra), writing clean, optimized programmatic code, and analyzing high-signal non-fiction literature.
 
 ---
 
