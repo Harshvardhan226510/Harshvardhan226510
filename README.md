@@ -22,7 +22,7 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 | Project | Core Stack | Operational Capabilities & Architecture | Source Code | Live Deployment |
 | :--- | :--- | :--- | :--- | :--- |
-| **PROMPT-AI** | `React.js` `Node.js` `GenAI` | Full-stack enterprise platform engineered for rapid prompt matrix design, iterative evaluation, and live endpoint application deployment. | `[Internal]` | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
+| **PROMPT-AI** | `React.js` `Node.js` `GenAI` | Full-stack enterprise platform engineered for rapid prompt matrix design, iterative evaluation, and live endpoint application deployment. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
 | **Real-Time News Agent** | `LangGraph` `ChromaDB` `Python` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/NewsSummarizerChatbot) |
 
 ### 🧠 Deep Learning & Advanced Telemetry
