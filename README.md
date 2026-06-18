@@ -20,46 +20,34 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 ### 🤖 Generative AI & Autonomous Agent Frameworks
 
-* **PROMPT-AI**  
-  *An enterprise-grade, full-stack Generative AI orchestrator designed for rapid prompt design, evaluation, and live application deployment.*
-  * `React.js` `Node.js` `Generative AI Pipelines`
-
-* **[Real-Time-News-Agent](https://github.com/Harshvardhan/Real-Time-News-Agent)**  
-  *Advanced multi-agent graph infrastructure incorporating vector storage workflows to autonomously research, parse, and synthesize real-time news data trends.*
-  * `LangGraph` `ChromaDB` `Autonomous Agents` `Hugging Face`
-
----
+| Project | Core Stack | Operational Capabilities & Architecture | Links |
+| :--- | :--- | :--- | :--- |
+| **PROMPT-AI** | `React.js` `Node.js` `GenAI` | Full-stack enterprise platform engineered for rapid prompt matrix design, iterative evaluation, and live endpoint application deployment. | `[Internal]` |
+| **Real-Time News Agent** | `LangGraph` `ChromaDB` `Python` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent) |
 
 ### 🧠 Deep Learning & Advanced Telemetry
 
-* **[Sponitor](https://github.com/Harshvardhan/Sponitor)**  
-  *An advanced machine learning framework driving a digital twin telemetry platform optimized for space exploration, lunar tracking, and physics-informed models.*
-  * `Machine Learning Telemetry` `Digital Twins` `Physics Modeling`
-
-* **[Deep-Learning-Foundations](https://github.com/Harshvardhan/Deep-Learning-Foundations)**  
-  *A comprehensive reference library mapping out neural network evolution from mathematical Perceptrons up to complex CNNs, LSTMs, and Bidirectional RNN models.*
-  * `TensorFlow` `Keras` `ANN` `CNN` `RNN` `Transfer Learning`
-
----
+| Project | Core Stack | Operational Capabilities & Architecture | Links |
+| :--- | :--- | :--- | :--- |
+| **Sponitor** | `Python` `ML` `Physics Models` | Machine learning framework driving a digital twin telemetry simulation engine optimized for lunar tracking and space exploration datasets. | [📁 Code](https://github.com/Harshvardhan226510/Sponitor) |
+| **DL Foundations Library** | `TensorFlow` `Keras` `KerasTuner` | Complete implementation matrix tracking neural evolution from mathematical Perceptrons up to complex CNNs, LSTMs, and Bidirectional RNNs. | [📁 Code](https://github.com/Harshvardhan226510/Deep-Learning-Foundations) |
 
 ### 📊 Applied Analytics & Relational Databases
 
-* **[Core-Machine-Learning-Toolkit](https://github.com/Harshvardhan/Core-Machine-Learning-Toolkit)**  
-  *A production-ready collection of optimized classical ML pipelines handling high-dimensional classification, imbalanced data scaling, and spatial regressions.*
-  * `XGBoost` `Scikit-Learn Pipelines` `GridSearchCV` `Gradio Serving`
-
-* **[Advanced-SQL-Analytics-Portfolio](https://github.com/Harshvardhan/Advanced-SQL-Analytics-Portfolio)**  
-  *Relational data engineering architecture focused on advanced multi-row deduplication window functions, self-joins, and complex time-series CTE aggregates.*
-  * `Advanced MySQL` `Window Functions` `CTEs` `Data Cleaning Pipelines`
+| Project | Core Stack | Operational Capabilities & Architecture | Links |
+| :--- | :--- | :--- | :--- |
+| **Core ML Toolkit** | `XGBoost` `Scikit-Learn` `Gradio` | Production-ready pipeline suite resolving extreme class imbalances ($scale\_pos\_weight$), high-dimensional classification, and spatial regressions. | [📁 Code](https://github.com/Harshvardhan226510/Core-Machine-Learning-Toolkit) |
+| **Advanced SQL Portfolio** | `MySQL` `Window Functions` | Enterprise data cleaning and EDA engine executing multi-row deduplication partitions, recursive self-joins, and rolling time-series CTE aggregates. | [📁 Code](https://github.com/Harshvardhan226510/Advanced-SQL-Analytics-Portfolio) |
 
 ---
 
-## ⚡ Core Philosophy & Outlook
-* **Unified Progress:** Strongly advocate for global, unified collaborative frameworks in space exploration and engineering driven by shared cognitive intelligence over national competition.
-* **Continuous Compounding:** Dedicating daily focus to studying advanced technical mathematics (Linear Algebra, Calculus), optimizing algorithmic code, and reading technical/psychological literature.
+## ⚡ Core Philosophy & Continuous Compounding
+
+* 🌌 **Unified Frontier:** Strongly advocate for a global, unified international approach to space exploration driven by collective cognitive intelligence over national competition.
+* 📈 **Mathematical Rigor:** Dedicating daily focus to mastering foundational technical mathematics, optimizing algorithmic execution, and reviewing psychological/financial literature.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshvardhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshvardhan226510&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshvardhan's GitHub Stats" />
 </p>
