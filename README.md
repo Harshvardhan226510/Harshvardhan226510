@@ -22,7 +22,7 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 | Project | Core Stack | Operational Capabilities & Architecture | Source Code | Live Deployment |
 | :--- | :--- | :--- | :--- | :--- |
-| **PROMPT-AI** | `Python` `Generative AI` | An advanced prompt engineering workspace designed for rapid prompt pattern exploration, configuration testing, and structured LLM evaluation. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/PROMPT-AI) |
+| **PROMPT-AI** | `Python` `Generative AI` | An advanced prompt engineering workspace designed for rapid prompt pattern exploration, configuration testing, and structured LLM evaluation. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
 | **Real-Time News Agent** | `LangGraph` `ChromaDB` `Python` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent) | [🚀 Live Demo](https://huggingface.co/spaces/Harshvardhan22/NewsSummarizerChatbot) |
 
 ### 🧠 Deep Learning & Advanced Telemetry
@@ -41,10 +41,11 @@ Building production-grade autonomous agent systems, high-dimensional deep learni
 
 ---
 
-## ⚡ Core Philosophy & Architecture Focus
+## ⚡ Core Philosophy & Space Tech Outlook
 
-* 🌌 **Global Scientific Collaboration:** Strongly advocate for a unified, global approach to space exploration and complex systems design based on shared cognitive intelligence rather than national competition.
-* 📈 **Continuous Engineering Compounding:** Focus on building a deeply grounded engineering mindset through a committed routine of reviewing advanced mathematics (Calculus, Linear Algebra), writing clean, optimized programmatic code, and analyzing high-signal non-fiction literature.
+* 🌌 **The Multiplanetary Frontier:** Passionate about the realization of deep space exploration and sustainable multiplanetary life. I believe the path to becoming an interplanetary species relies on a unified, global organization working toward shared milestones rather than fragmented national competition.
+* 🛰️ **Autonomous Space Revolution:** Committed to building the intelligent computing infrastructure—such as autonomous cognitive agents, physics-informed digital twins, and highly resilient edge architectures—required to govern next-generation spacecraft and off-world telemetry systems.
+* 📈 **Continuous Compounding:** Cultivating a rigorous engineering mindset through a daily habit of analyzing advanced mathematics (Calculus, Linear Algebra), programming optimized pipelines, and expanding baseline knowledge via non-fiction literature.
 
 ---
 
