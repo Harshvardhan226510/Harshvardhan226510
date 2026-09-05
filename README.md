@@ -35,20 +35,20 @@
 
 | Project | Core Stack | Operational Capabilities & Architecture | Links |
 | :--- | :--- | :--- | :--- |
-| **BotMart** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase) | Engineered a dual-sided B2B marketplace for the discovery and acquisition of custom AI systems. Architected a context-isolated, real-time WebSocket messaging engine utilizing strict PostgreSQL Row Level Security (RLS) and custom PL/pgSQL RPCs to securely process complex contract negotiations and eliminate cross-table state mutations. | [📁 Code](https://github.com/Harshvardhan226510/botmart) |
+| **BotMart** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase) | Engineered a dual-sided B2B marketplace for the discovery and acquisition of custom AI systems. Architected a context-isolated, real-time WebSocket messaging engine utilizing strict PostgreSQL Row Level Security (RLS) and custom PL/pgSQL RPCs to securely process complex contract negotiations and eliminate cross-table state mutations. | [📁 Code](https://github.com/Harshvardhan226510/botmart)<br>[Live Demo](https://botmart-rho.vercel.app/) |
 
 ### 🤖 Generative AI & Autonomous Agent Frameworks
 
 | Project | Core Stack | Operational Capabilities & Architecture | Links |
 | :--- | :--- | :--- | :--- |
-| **PROMPT-AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) `Gen AI` | An advanced prompt engineering workspace designed for rapid prompt pattern exploration, configuration testing, and structured LLM evaluation. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI)<br>[🚀 Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
-| **Real-Time News Agent** | `LangGraph` `ChromaDB` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent)<br>[🚀 Demo](https://huggingface.co/spaces/Harshvardhan22/NewsSummarizerChatbot) |
+| **PROMPT-AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) `Gen AI` | An advanced prompt engineering workspace designed for rapid prompt pattern exploration, configuration testing, and structured LLM evaluation. | [📁 Code](https://github.com/Harshvardhan226510/PROMPT-AI)<br>[Live Demo](https://huggingface.co/spaces/Harshvardhan22/prompt-ai) |
+| **Real-Time News Agent** | `LangGraph` `ChromaDB` | Autonomous multi-agent graph system utilizing vector state routing to research, extract, and synthesize real-time data streams. | [📁 Code](https://github.com/Harshvardhan226510/Real-Time-News-Agent)<br>[Live Demo](https://huggingface.co/spaces/Harshvardhan22/NewsSummarizerChatbot) |
 
 ### 🧠 Deep Learning & Advanced Telemetry
 
 | Project | Core Stack | Operational Capabilities & Architecture | Links |
 | :--- | :--- | :--- | :--- |
-| **Sponitor** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) `Physics` | Machine learning framework driving a digital twin telemetry simulation engine optimized for lunar tracking and space exploration datasets. | [📁 Code](https://github.com/Harshvardhan226510/Sponitor)<br>[🚀 Demo](https://huggingface.co/spaces/Harshvardhan22/sponitor) |
+| **Sponitor** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) `Physics` | Machine learning framework driving a digital twin telemetry simulation engine optimized for lunar tracking and space exploration datasets. | [📁 Code](https://github.com/Harshvardhan226510/Sponitor)<br>[Live Demo](https://huggingface.co/spaces/Harshvardhan22/sponitor) |
 | **DL Foundations** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras) | Complete implementation matrix tracking neural evolution from mathematical Perceptrons up to complex CNNs, LSTMs, and Bidirectional RNNs. | [📁 Code](https://github.com/Harshvardhan226510/Deep-Learning-Foundations)<br>`[Notebook Core]` |
 
 ### 📊 Applied Analytics & Relational Databases
@@ -64,9 +64,9 @@
 
 > **"The path to becoming an interplanetary species relies on a unified, global computing infrastructure."**
 
-- 🪐 **The Multiplanetary Frontier:** Passionate about the realization of deep space exploration and sustainable multiplanetary life. I believe the path to becoming an interplanetary species relies on a unified, global organization working toward shared milestones rather than fragmented national competition.
-- 🛰️ **Autonomous Space Revolution:** Committed to building the intelligent computing infrastructure—such as autonomous cognitive agents, physics-informed digital twins, and highly resilient edge architectures—required to govern next-generation spacecraft and off-world telemetry systems.
-- 📈 **Continuous Compounding:** Cultivating a rigorous engineering mindset through a daily habit of analyzing advanced mathematics (Calculus, Linear Algebra), programming optimized pipelines, and expanding baseline knowledge via non-fiction literature.
+- **The Multiplanetary Frontier:** Passionate about the realization of deep space exploration and sustainable multiplanetary life. I believe the path to becoming an interplanetary species relies on a unified, global organization working toward shared milestones rather than fragmented national competition.
+- **Autonomous Space Revolution:** Committed to building the intelligent computing infrastructure—such as autonomous cognitive agents, physics-informed digital twins, and highly resilient edge architectures—required to govern next-generation spacecraft and off-world telemetry systems.
+- **Continuous Compounding:** Cultivating a rigorous engineering mindset through a daily habit of analyzing advanced mathematics (Calculus, Linear Algebra), programming optimized pipelines, and expanding baseline knowledge via non-fiction literature.
 
 <br>
 
